@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "q3.h"
+#include "ArrayManipRecursion.h"
 #define size 10
 
 void ShiftRight(int* arr,int i){
